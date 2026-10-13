@@ -1,0 +1,8 @@
+Download your message and key here for subtask 1.1
+Msg	0xf2c5
+key	0xa5
+
+
+Download your K = {K1, K2, K3, K4, K5} and m0 here.
+m0 = 0x4578
+K = 0x23,0xe3,0xf2,0x24,0x3b
